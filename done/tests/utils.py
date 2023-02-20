@@ -1,3 +1,7 @@
+"""
+Utility methods for test cases
+"""
+
 
 from workbench.runtime import WorkbenchRuntime
 from xblock.fields import ScopeIds
